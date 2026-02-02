@@ -23,10 +23,7 @@ UnityConnectSettings:
     m_Enabled: 0
     m_TestMode: 0
     m_InitializeOnStartup: 1
-<<<<<<< HEAD
     m_PackageRequiringCoreStatsPresent: 0
-=======
->>>>>>> parent of a75088c (vg)
   UnityAdsSettings:
     m_Enabled: 0
     m_InitializeOnStartup: 1

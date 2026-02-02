@@ -1,25 +1,25 @@
 m_ProjectFiles:
   m_ManifestFileStatus:
-    m_FilePath: C:/Users/kindr/OneDrive/Documentos/GitHub/plataformaspjd4v2021/PJD4V/Packages/manifest.json
+    m_FilePath: C:/Users/kindr/OneDrive/Documentos/GitHub/plataformaspjd4v2021/plataformaspjd4v2021/plataformaspjd4v2021/PJD4V/Packages/manifest.json
     m_PathExists: 1
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 639043595590459091
-    m_Hash: 205969706
+      ticks: 639045215990587076
+    m_Hash: 667505191
   m_LockFileStatus:
-    m_FilePath: C:/Users/kindr/OneDrive/Documentos/GitHub/plataformaspjd4v2021/PJD4V/Packages/packages-lock.json
+    m_FilePath: C:/Users/kindr/OneDrive/Documentos/GitHub/plataformaspjd4v2021/plataformaspjd4v2021/plataformaspjd4v2021/PJD4V/Packages/packages-lock.json
     m_PathExists: 1
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 639043595611728366
-    m_Hash: 3025046548
+      ticks: 639045216308468953
+    m_Hash: 2904195732
 m_EmbeddedPackageManifests:
   m_ManifestsStatus: {}
 m_LocalPackages:
   m_LocalFileStatus: []
-m_ProjectPath: C:/Users/kindr/OneDrive/Documentos/GitHub/plataformaspjd4v2021/PJD4V/Packages
+m_ProjectPath: C:/Users/kindr/OneDrive/Documentos/GitHub/plataformaspjd4v2021/plataformaspjd4v2021/plataformaspjd4v2021/PJD4V/Packages
 m_EditorVersion: 6000.0.42f1 (feb9a7235030)
 m_ResolvedPackages:
 - packageId: com.unity.multiplayer.center@1.0.0
@@ -27,7 +27,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: C:\Users\kindr\OneDrive\Documentos\GitHub\plataformaspjd4v2021\PJD4V\Library\PackageCache\com.unity.multiplayer.center@f3fb577b3546
+  resolvedPath: C:\Users\kindr\OneDrive\Documentos\GitHub\plataformaspjd4v2021\plataformaspjd4v2021\plataformaspjd4v2021\PJD4V\Library\PackageCache\com.unity.multiplayer.center@f3fb577b3546
   assetPath: Packages/com.unity.multiplayer.center
   name: com.unity.multiplayer.center
   displayName: Multiplayer Center
